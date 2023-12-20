@@ -1,0 +1,16 @@
+.nav-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+  padding-left: 30px;
+  width: 100vw;
+  font-family: 'Roboto';
+  color: gray;
+  background-color: #f1f5f9;
+}
+.website-logo {
+  width: 100px;
+  height: 40px;
+}

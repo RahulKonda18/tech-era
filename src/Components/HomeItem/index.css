@@ -1,0 +1,21 @@
+.item {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  height: 100px;
+  border: 1px solid lightblue;
+  cursor: pointer;
+}
+.logos {
+  width: 50px;
+  height: 60px;
+}
+.name {
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+}
